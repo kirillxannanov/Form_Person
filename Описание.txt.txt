@@ -1,0 +1,3 @@
+Download Open Server 
+Open folder Open Server and domains
+Drop the project folder domains
