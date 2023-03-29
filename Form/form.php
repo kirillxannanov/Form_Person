@@ -15,7 +15,7 @@ $message = trim($_POST['message']);
 $menu = trim($_POST['menu']);
 $password = trim($_POST['password']);
 $submit = $_POST['submit'];
-global $connect;
+//global $connect;
 
 if ($password) {
     $password = MD5($password);
